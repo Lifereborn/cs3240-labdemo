@@ -1,1 +1,5 @@
-print("hello");
+from helper import greetings
+
+greetings("hi!")
+
+
